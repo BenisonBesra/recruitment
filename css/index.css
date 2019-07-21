@@ -18,15 +18,21 @@ html, body {
 }
 
 .logo {
-  background-color: rgb(27, 55, 76);
+  /* background-color: rgb(27, 55, 76); */
+  background-color: #000;
   height: 100px;
   width: 100%;
   text-align: center;
 }
 
+.logo img {
+  padding-top: 5px;
+}
+
 .menu {
   overflow: hidden;
   background-color: rgb(16, 136, 150);
+  /* background-color: #111; */
   height: 40px;
 }
 
