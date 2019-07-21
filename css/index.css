@@ -18,8 +18,8 @@ html, body {
 }
 
 .logo {
-  /* background-color: rgb(27, 55, 76); */
-  background-color: #000;
+  background-color: rgb(27, 55, 76);
+  /* background-color: #000; */
   height: 100px;
   width: 100%;
   text-align: center;
